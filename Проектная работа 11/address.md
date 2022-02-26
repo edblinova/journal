@@ -1,1 +1,1 @@
-http://51.250.22.222:5601
+http://51.250.22.222:5601/app/kibana#/discover?_g=(refreshInterval:(pause:!f,value:300000),time:(from:'2022-02-25T19:00:00.000Z',mode:absolute,to:'2022-02-26T18:59:59.999Z'))&_a=(columns:!(_source),filters:!(),index:'filebeat-*',interval:auto,query:(language:lucene,query:''),sort:!('@timestamp',desc))
